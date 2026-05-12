@@ -19,6 +19,9 @@
         <mxCell id="aJ0hZCMqrIk3GXb8O_0j-3" value="AM/FM信号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-80" y="280" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="aJ0hZCMqrIk3GXb8O_0j-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aJ0hZCMqrIk3GXb8O_0j-4" target="aJ0hZCMqrIk3GXb8O_0j-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aJ0hZCMqrIk3GXb8O_0j-4" value="FFT+模值计算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="370" width="120" height="60" as="geometry" />
         </mxCell>
