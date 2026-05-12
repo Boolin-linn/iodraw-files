@@ -56,7 +56,10 @@
           <mxGeometry x="850" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aJ0hZCMqrIk3GXb8O_0j-10" value="显示解调波形" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="1010" y="195" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aJ0hZCMqrIk3GXb8O_0j-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aJ0hZCMqrIk3GXb8O_0j-11" target="aJ0hZCMqrIk3GXb8O_0j-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aJ0hZCMqrIk3GXb8O_0j-11" value="DAC输出" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="195" width="120" height="60" as="geometry" />
