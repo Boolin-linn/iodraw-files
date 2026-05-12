@@ -4,11 +4,19 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="aJ0hZCMqrIk3GXb8O_0j-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aJ0hZCMqrIk3GXb8O_0j-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="aJ0hZCMqrIk3GXb8O_0j-1" value="AD9226" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aJ0hZCMqrIk3GXb8O_0j-2" value="DDS搬频" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aJ0hZCMqrIk3GXb8O_0j-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aJ0hZCMqrIk3GXb8O_0j-3" target="aJ0hZCMqrIk3GXb8O_0j-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aJ0hZCMqrIk3GXb8O_0j-3" value="AM/FM信号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-80" y="280" width="120" height="60" as="geometry" />
