@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="aJ0hZCMqrIk3GXb8O_0j-1" value="AD9226" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="110" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aJ0hZCMqrIk3GXb8O_0j-2" value="DDS搬频" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aJ0hZCMqrIk3GXb8O_0j-3" value="AM/FM信号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-70" y="190" width="120" height="60" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry x="760" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aJ0hZCMqrIk3GXb8O_0j-7" value="fir滤除高频成分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aJ0hZCMqrIk3GXb8O_0j-8" value="cordic鉴频计算出瞬时相位值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="150" width="120" height="60" as="geometry" />
@@ -31,7 +31,7 @@
         <mxCell id="aJ0hZCMqrIk3GXb8O_0j-9" value="PS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="970" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aJ0hZCMqrIk3GXb8O_0j-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="aJ0hZCMqrIk3GXb8O_0j-10" value="显示解调波形" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="950" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aJ0hZCMqrIk3GXb8O_0j-11" value="DAC输出" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
