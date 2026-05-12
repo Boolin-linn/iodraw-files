@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="aJ0hZCMqrIk3GXb8O_0j-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="230" width="133" height="130" as="geometry" />
+        </mxCell>
         <mxCell id="aJ0hZCMqrIk3GXb8O_0j-1" value="AD9226" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="280" width="120" height="60" as="geometry" />
         </mxCell>
@@ -29,7 +32,7 @@
           <mxGeometry x="490" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aJ0hZCMqrIk3GXb8O_0j-8" value="计算出I/Q信号瞬时相位值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="668.5" y="170" width="90" height="40" as="geometry" />
+          <mxGeometry x="677" y="250" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aJ0hZCMqrIk3GXb8O_0j-9" value="PS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="970" y="440" width="120" height="60" as="geometry" />
@@ -51,9 +54,6 @@
         </mxCell>
         <mxCell id="aJ0hZCMqrIk3GXb8O_0j-21" value="相位差分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="150" width="62.5" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="aJ0hZCMqrIk3GXb8O_0j-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="230" width="133" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
