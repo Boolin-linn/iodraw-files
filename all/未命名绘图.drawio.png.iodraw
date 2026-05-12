@@ -40,14 +40,13 @@
         <mxCell id="aJ0hZCMqrIk3GXb8O_0j-11" value="DAC输出" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="827" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aJ0hZCMqrIk3GXb8O_0j-15" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="aJ0hZCMqrIk3GXb8O_0j-16" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="180" y="230" as="sourcePoint" />
-            <mxPoint x="290" y="130" as="targetPoint" />
+            <mxPoint x="330" y="320" as="sourcePoint" />
+            <mxPoint x="380" y="270" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="190" y="140" />
-              <mxPoint x="220" y="180" />
-              <mxPoint x="170" y="130" />
+              <mxPoint x="380" y="320" />
+              <mxPoint x="330" y="270" />
             </Array>
           </mxGeometry>
         </mxCell>
