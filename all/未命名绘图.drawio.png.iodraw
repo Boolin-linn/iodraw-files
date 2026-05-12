@@ -10,6 +10,9 @@
         <mxCell id="aJ0hZCMqrIk3GXb8O_0j-1" value="AD9226" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="280" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="aJ0hZCMqrIk3GXb8O_0j-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aJ0hZCMqrIk3GXb8O_0j-2" target="aJ0hZCMqrIk3GXb8O_0j-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aJ0hZCMqrIk3GXb8O_0j-2" value="DDS搬频" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="200" width="120" height="60" as="geometry" />
         </mxCell>
@@ -37,11 +40,17 @@
         <mxCell id="aJ0hZCMqrIk3GXb8O_0j-6" value="AXI总线" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="676.25" y="370" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="aJ0hZCMqrIk3GXb8O_0j-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aJ0hZCMqrIk3GXb8O_0j-7" target="aJ0hZCMqrIk3GXb8O_0j-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aJ0hZCMqrIk3GXb8O_0j-7" value="fir滤除高频成分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aJ0hZCMqrIk3GXb8O_0j-8" value="计算出I/Q信号瞬时相位值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="676.25" y="180" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aJ0hZCMqrIk3GXb8O_0j-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aJ0hZCMqrIk3GXb8O_0j-9" target="aJ0hZCMqrIk3GXb8O_0j-25">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aJ0hZCMqrIk3GXb8O_0j-9" value="PS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="370" width="120" height="60" as="geometry" />
