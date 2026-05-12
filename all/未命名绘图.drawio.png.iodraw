@@ -23,7 +23,7 @@
           <mxGeometry x="310" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aJ0hZCMqrIk3GXb8O_0j-5" value="BRAM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aJ0hZCMqrIk3GXb8O_0j-6" value="AXI总线" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="370" width="120" height="60" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry x="676.25" y="180" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aJ0hZCMqrIk3GXb8O_0j-9" value="PS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="900" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="827" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aJ0hZCMqrIk3GXb8O_0j-10" value="显示解调波形" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1020" y="200" width="120" height="60" as="geometry" />
