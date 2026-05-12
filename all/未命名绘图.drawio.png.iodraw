@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="aJ0hZCMqrIk3GXb8O_0j-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aJ0hZCMqrIk3GXb8O_0j-22" target="aJ0hZCMqrIk3GXb8O_0j-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="aJ0hZCMqrIk3GXb8O_0j-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="150" width="140" height="150" as="geometry" />
         </mxCell>
@@ -42,6 +39,9 @@
         </mxCell>
         <mxCell id="aJ0hZCMqrIk3GXb8O_0j-6" value="AXI总线" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="676.25" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aJ0hZCMqrIk3GXb8O_0j-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aJ0hZCMqrIk3GXb8O_0j-7" target="aJ0hZCMqrIk3GXb8O_0j-21">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aJ0hZCMqrIk3GXb8O_0j-7" value="fir滤除高频成分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="200" width="120" height="60" as="geometry" />
