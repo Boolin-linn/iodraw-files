@@ -7,8 +7,8 @@
         <mxCell id="aJ0hZCMqrIk3GXb8O_0j-1" value="AD9226" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aJ0hZCMqrIk3GXb8O_0j-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="110" width="120" height="60" as="geometry" />
+        <mxCell id="aJ0hZCMqrIk3GXb8O_0j-2" value="DDS搬频" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aJ0hZCMqrIk3GXb8O_0j-3" value="AM/FM信号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-70" y="190" width="120" height="60" as="geometry" />
