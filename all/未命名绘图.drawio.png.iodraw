@@ -47,7 +47,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="aJ0hZCMqrIk3GXb8O_0j-20" value="相位差分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="200" width="100" height="40" as="geometry" />
+          <mxGeometry x="680" y="210" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="aJ0hZCMqrIk3GXb8O_0j-21" value="相位差分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="250" width="100" height="40" as="geometry" />
