@@ -114,7 +114,7 @@
             <mxPoint x="650" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aJ0hZCMqrIk3GXb8O_0j-42" value="第&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="aJ0hZCMqrIk3GXb8O_0j-42" value="低通滤波" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="280" width="62.5" height="20" as="geometry" />
         </mxCell>
       </root>
