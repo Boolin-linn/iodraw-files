@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="aJ0hZCMqrIk3GXb8O_0j-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="150" width="133" height="130" as="geometry" />
+          <mxGeometry x="650" y="150" width="140" height="130" as="geometry" />
         </mxCell>
         <mxCell id="aJ0hZCMqrIk3GXb8O_0j-1" value="AD9226" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="280" width="120" height="60" as="geometry" />
@@ -56,7 +56,7 @@
           <mxGeometry x="686.5" y="250" width="62.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="aJ0hZCMqrIk3GXb8O_0j-24" value="codic鉴频" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="649" y="100" width="131" height="20" as="geometry" />
+          <mxGeometry x="650" y="150" width="131" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
