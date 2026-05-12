@@ -16,8 +16,13 @@
         <mxCell id="aJ0hZCMqrIk3GXb8O_0j-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aJ0hZCMqrIk3GXb8O_0j-2" target="aJ0hZCMqrIk3GXb8O_0j-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="aJ0hZCMqrIk3GXb8O_0j-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aJ0hZCMqrIk3GXb8O_0j-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="aJ0hZCMqrIk3GXb8O_0j-2" value="DDS搬频&lt;div&gt;DDS根据PS输出的关键字调整输出的本振信号频率，完成自动混频&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="300" y="180" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aJ0hZCMqrIk3GXb8O_0j-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aJ0hZCMqrIk3GXb8O_0j-3" target="aJ0hZCMqrIk3GXb8O_0j-1">
           <mxGeometry relative="1" as="geometry" />
