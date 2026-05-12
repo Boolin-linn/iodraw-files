@@ -79,7 +79,7 @@
         <mxCell id="aJ0hZCMqrIk3GXb8O_0j-21" value="相位解缠绕" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="250" width="62.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="aJ0hZCMqrIk3GXb8O_0j-24" value="FM鉴频" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="aJ0hZCMqrIk3GXb8O_0j-24" value="FM正交鉴频" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="150" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="aJ0hZCMqrIk3GXb8O_0j-25" value="上位机显示载波频率" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
