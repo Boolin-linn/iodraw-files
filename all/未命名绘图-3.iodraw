@@ -59,11 +59,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8ywnhYb8J5sfFv9qQJIs-32" value="FM/AM信号输入" style="rounded=0;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-170" y="129" width="110" height="51" as="geometry" />
-        </mxCell>
         <mxCell id="8ywnhYb8J5sfFv9qQJIs-33" value="AD9226" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="30" y="139" width="114" height="49" as="geometry" />
+          <mxGeometry x="-90" y="228" width="114" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
