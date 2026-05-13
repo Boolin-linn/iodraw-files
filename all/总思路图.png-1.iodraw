@@ -1,0 +1,126 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="N7M_8uuwTH_qr_3fD9nF">
+    <mxGraphModel dx="1404" dy="776" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aJ0hZCMqrIk3GXb8O_0j-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aJ0hZCMqrIk3GXb8O_0j-22" target="aJ0hZCMqrIk3GXb8O_0j-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aJ0hZCMqrIk3GXb8O_0j-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="650" y="150" width="140" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="aJ0hZCMqrIk3GXb8O_0j-1" value="AD9226" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aJ0hZCMqrIk3GXb8O_0j-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aJ0hZCMqrIk3GXb8O_0j-2" target="aJ0hZCMqrIk3GXb8O_0j-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aJ0hZCMqrIk3GXb8O_0j-2" value="&lt;br&gt;&lt;div&gt;DDS根据PS输出的关键字产生本振信号频率，混频&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="200" width="130" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="aJ0hZCMqrIk3GXb8O_0j-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aJ0hZCMqrIk3GXb8O_0j-3" target="aJ0hZCMqrIk3GXb8O_0j-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aJ0hZCMqrIk3GXb8O_0j-3" value="AM/FM信号" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-40" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aJ0hZCMqrIk3GXb8O_0j-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aJ0hZCMqrIk3GXb8O_0j-4" target="aJ0hZCMqrIk3GXb8O_0j-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aJ0hZCMqrIk3GXb8O_0j-4" value="FFT+模值计算" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aJ0hZCMqrIk3GXb8O_0j-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aJ0hZCMqrIk3GXb8O_0j-5" target="aJ0hZCMqrIk3GXb8O_0j-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aJ0hZCMqrIk3GXb8O_0j-5" value="BRAM" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="490" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aJ0hZCMqrIk3GXb8O_0j-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aJ0hZCMqrIk3GXb8O_0j-6" target="aJ0hZCMqrIk3GXb8O_0j-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aJ0hZCMqrIk3GXb8O_0j-6" value="AXI总线" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="676.25" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aJ0hZCMqrIk3GXb8O_0j-7" value="fir滤除高频成分" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="197.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aJ0hZCMqrIk3GXb8O_0j-8" value="cordic计算出I/Q信号瞬时相位值" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="676.25" y="170" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aJ0hZCMqrIk3GXb8O_0j-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aJ0hZCMqrIk3GXb8O_0j-9" target="aJ0hZCMqrIk3GXb8O_0j-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aJ0hZCMqrIk3GXb8O_0j-9" value="PS" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="850" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aJ0hZCMqrIk3GXb8O_0j-10" value="显示解调波形" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1010" y="195" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aJ0hZCMqrIk3GXb8O_0j-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="aJ0hZCMqrIk3GXb8O_0j-11" target="aJ0hZCMqrIk3GXb8O_0j-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aJ0hZCMqrIk3GXb8O_0j-11" value="DAC输出" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="840" y="195" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aJ0hZCMqrIk3GXb8O_0j-19" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="aJ0hZCMqrIk3GXb8O_0j-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="300" as="sourcePoint" />
+            <mxPoint x="280" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="270" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aJ0hZCMqrIk3GXb8O_0j-20" value="相位差分" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="690" y="220" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aJ0hZCMqrIk3GXb8O_0j-21" value="相位解缠绕" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="690" y="250" width="62.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aJ0hZCMqrIk3GXb8O_0j-24" value="FM/AM鉴频" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="650" y="150" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aJ0hZCMqrIk3GXb8O_0j-25" value="上位机显示载波频率" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1030" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aJ0hZCMqrIk3GXb8O_0j-26" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="aJ0hZCMqrIk3GXb8O_0j-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="300" as="sourcePoint" />
+            <mxPoint x="290" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="270" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aJ0hZCMqrIk3GXb8O_0j-28" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.462;entryY=1.017;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="aJ0hZCMqrIk3GXb8O_0j-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="910" y="370" as="sourcePoint" />
+            <mxPoint x="360" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aJ0hZCMqrIk3GXb8O_0j-40" value="输出频率控制字" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="aJ0hZCMqrIk3GXb8O_0j-28" vertex="1" connectable="0">
+          <mxGeometry x="-0.3154" y="-1" relative="1" as="geometry">
+            <mxPoint x="-97" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aJ0hZCMqrIk3GXb8O_0j-37" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.001;exitY=0.553;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="aJ0hZCMqrIk3GXb8O_0j-7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="604" y="230" as="sourcePoint" />
+            <mxPoint x="650" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="610" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aJ0hZCMqrIk3GXb8O_0j-42" value="低通滤波" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="690" y="280" width="62.5" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
