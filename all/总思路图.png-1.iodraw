@@ -85,6 +85,15 @@
         <mxCell id="aJ0hZCMqrIk3GXb8O_0j-25" value="上位机显示载波频率" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1030" y="370" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="aJ0hZCMqrIk3GXb8O_0j-26" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="aJ0hZCMqrIk3GXb8O_0j-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="300" as="sourcePoint" />
+            <mxPoint x="290" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="270" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="aJ0hZCMqrIk3GXb8O_0j-28" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.462;entryY=1.017;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="aJ0hZCMqrIk3GXb8O_0j-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="910" y="370" as="sourcePoint" />
